@@ -24,13 +24,9 @@
    <tbody>
       <tr>
          <td>Feb 7th</td>
-         <td>data2</td>
-         <td>data3</td>
-      </tr>
-      <tr>
-         <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
+         <td>Project Proposal</td>
+         <td>Discussed Ideas, App Names, Tag Line, App Description and Value Proposition and Inspirations.</td>
+         <td>Discussed Ideas, App Names, Tag Line, Inspiration, Value Proposition and Competitors.</td>
       </tr>
    </tbody>
 </table>
