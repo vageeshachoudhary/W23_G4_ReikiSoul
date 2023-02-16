@@ -15,14 +15,15 @@
 <table>
    <thead>
       <tr>
-         <th>Header1</th>
-         <th>Header2</th>
-         <th>Header3</th>
+         <th>Date</th>
+         <th>Topic</th>
+         <th>Shrishty</th>
+         <th>Vageesha</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td>data1</td>
+         <td>Feb 7th</td>
          <td>data2</td>
          <td>data3</td>
       </tr>
