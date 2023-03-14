@@ -28,6 +28,12 @@
          <td>Discussed Ideas, App Names, Tag Line, App Description and Value Proposition and Inspirations.</td>
          <td>Discussed Ideas, App Names, Tag Line, Inspiration, Value Proposition and Competitors.</td>
       </tr>
+      <tr>
+         <td>Feb 15th</td>
+         <td>Sharing Project and Contributions Document</td>
+         <td></td>
+         <td></td>
+      </tr>
    </tbody>
 </table>
 
