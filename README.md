@@ -34,6 +34,12 @@
          <td></td>
          <td></td>
       </tr>
+      <tr>
+         <td>Mar 2nd</td>
+         <td>Complete requirements gathering User Study</td>
+         <td></td>
+         <td></td>
+      </tr>
    </tbody>
 </table>
 
